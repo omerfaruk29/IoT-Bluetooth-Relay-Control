@@ -83,4 +83,4 @@ Custom 3D-printable enclosure designed in **Autodesk Fusion 360** to isolate hig
 
 **[Ömer Faruk YIĞCI]**  
 *Mechanical & Industrial Engineering Student*  
-[www.linkedin.com/in/ömer-faruk-yiğci-382907344] | [GitHub Profile Link]
+[www.linkedin.com/in/ömer-faruk-yiğci-382907344] 
